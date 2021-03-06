@@ -5,4 +5,4 @@ This webpage is generated from with **gitbook** function, while the repo [course
 This **readme** file is the first assignment, in which [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown refernce") is applied.
 
 ***
-> I am MaxW <img width=50 src=https://github.com/MaxActionWang/course_bioinformatics/blob/main/RnM.jpg>
+> I am MaxW <img width=50 src=https://github.com/MaxActionWang/MaxActionWang.io/blob/main/RnM.jpg>
