@@ -11,5 +11,8 @@
       <p><b>email:</b> maxwang123@hotmail.com|wangmx18@mails.tsinghua.edu.cn</p>
       <p><b>address:</b> Tsinghua University, 100084, Beijing, P.R.China </p>
     </td>
+    <td width = '50%'>
+      <img src = 'RnM.jpg' width='100%'>
+    </td>
   </tr>
 </table>
